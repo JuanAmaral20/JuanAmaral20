@@ -1,56 +1,46 @@
-# 🧑‍💻 Juan Amaral | Desenvolvedor FullStack
+![Banner](https://raw.githubusercontent.com/joaoemanoelaho/banner/main/developer-coding-3840x2160-13642.png)
 
-Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Juan Amaral, um desenvolvedor com uma paixão imensa por tecnologia, programação e inovação. Meu objetivo é criar soluções criativas e eficientes que façam a diferença. Aqui você encontrará projetos que refletem minha jornada no universo da tecnologia e minha busca constante por aprendizado e aperfeiçoamento. 🚀👨‍💻
+# 👋 Hi, I'am Juan Amaral!
 
----
-
-## 🚀 Sobre Mim:
-- 💡 **Atualmente trabalhando em:** Desenvolvimento web e mobile utilizando **React**, **Node.js** e **TypeScript**.
-- 🎯 **Objetivo:** Aprimorar minhas habilidades em tecnologias modernas e colaborar em projetos inovadores.
-- 🌱 **Sempre aprendendo sobre:** Arquitetura de sistemas, boas práticas de programação, DevOps e tendências tecnológicas.
-- 🤝 **Aberto a:** Colaborações em projetos de código aberto, oportunidades de freelancing e parcerias profissionais.
-- 📫 **Contato:** [**Clique aqui**](mailto:pabloah09@gmail.com) para me enviar um e-mail ou me encontre nas redes sociais abaixo.
+Sou Desenvolvedor Full Stack e entusiasta de tecnologia, atualmente aprimorando minhas habilidades em **C#** e **.NET**. Tenho experiência com **SQL Server**, desenvolvimento web e aplicações SaaS.
 
 ---
 
-## 🌐 Onde Me Encontrar:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/juanzito#1121) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/juan_amaral20_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-amaral)
+## 🚀 Tecnologias e Ferramentas  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![NoSQL](https://img.shields.io/badge/NoSQL-%23ea2b2b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
+## 📌 Projetos Recentes  
+- 🚗 **GeoFleet** - Aplicação para gestão de frotas em tempo real  
+- 💰 **SaaS Financeiro** - Sistema de controle financeiro com relatórios e assinaturas  
+- 🎭 **Ironia Federal** - Perfil de sátira e humor político no X (Twitter)  
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub:
+## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanAmaral20&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Juan Amaral" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanAmaral20&theme=radical&hide_border=false" alt="Contribuições consecutivas" height="180em">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAmaral20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" height="180em">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanAmaral20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAmaral20&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## 🔥 Contador de Visitas:
-[![](https://visitcount.itsvg.in/api?id=JuanAmaral20&icon=5&color=6)](https://visitcount.itsvg.in)
+## 📫 Como me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)  
+
 
 ---
 
-> 🌟 *"A tecnologia é um superpoder, e a programação é a chave para desbloqueá-lo!"*
-
----
-
-**Gostou do meu perfil?** Não se esqueça de deixar uma estrela nos repositórios que achar interessante! ⭐
+🔹 **Sempre aberto a novas oportunidades e desafios na área de tecnologia!**
