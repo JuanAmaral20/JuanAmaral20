@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/joaoemanoelaho/banner/main/developer-coding-3840x2160-13642.png)
+![Banner](./github-header-image.png)
 
 # 👋 Hi, I'am Juan Amaral!
 
@@ -21,10 +21,6 @@ Sou Desenvolvedor Full Stack e entusiasta de tecnologia, atualmente aprimorando 
 
 ---
 
-## 📌 Projetos Recentes  
-- 🚗 **GeoFleet** - Aplicação para gestão de frotas em tempo real  
-- 💰 **SaaS Financeiro** - Sistema de controle financeiro com relatórios e assinaturas  
-- 🎭 **Ironia Federal** - Perfil de sátira e humor político no X (Twitter)  
 
 ---
 
